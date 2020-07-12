@@ -1,0 +1,20 @@
+Queries:
+
+1)
+
+SELECT sender.first_name, sender.last_name FROM sender
+
+2)
+
+SELECT recipient.first_name, recipient.last_name FROM recipient
+
+3)
+
+SELECT route.route_id, route.district FROM route
+
+4)
+
+SELECT * FROM customer
+
+Im sorry, i have problems with the "join Queries", i undrstand how it works, but i think i made my tables to complicated,
+because i dont now how to make the "join Queries" with all these fk_ .
